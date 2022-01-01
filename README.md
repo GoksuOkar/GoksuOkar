@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GoksuOkar
-- 👀 I’m interested in physics, philosophy, exercise science, art and AI.
+- 👀 I’m interested in physics, philosophy, exercise science, art, electronic music and AI.
 - 🌱 I’m currently learning probability and statistics, Python, Data Science
 - 💞️ I’m looking to collaborate on Machine learning and Data analysis projects.
 - 📫 How to reach me best is email at me@goksuokar.com
