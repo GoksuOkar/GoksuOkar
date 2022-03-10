@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GoksuOkar
 - 👀 I’m interested in understanding our world, full stack.
-- 🌱 I’m currently learning about coding, data structures, blokchain
-- 💞️ I’m looking to collaborate on any web3 or finance projects.
+- 🌱 I’m currently learning how to code in Pyhton and Javascript. I want to become a sofware engineer in a green tech company.
+- 💞️ I’m looking to collaborate on any web3 and automation projects.
 - 📫 How to reach me best is email at me@goksuokar.com
 
 <!---
